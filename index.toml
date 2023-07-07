@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "index.html"
-hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a9df984019ee54c9174937bf071a146bf0f19bcff5f4eacff1835aa7034b3eb4"
 metafile = true
