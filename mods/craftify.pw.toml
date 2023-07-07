@@ -1,0 +1,13 @@
+name = "Craftify"
+filename = "Craftify-1.18-1.11.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/EMbtlafZ/Craftify-1.18-1.11.0-fabric.jar"
+hash-format = "sha1"
+hash = "8af9c5d6cb4b0a8f50058a7ec69be56d8bd71af0"
+
+[update]
+[update.modrinth]
+mod-id = "nrJ2NpD0"
+version = "EMbtlafZ"

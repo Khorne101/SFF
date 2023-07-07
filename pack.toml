@@ -1,0 +1,13 @@
+name = "SFF"
+author = "Khorne"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "935360ce4673999d65758de3041d7e60b0f984f8c029c8bf4294b7a45b45f8f7"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.18.2"
